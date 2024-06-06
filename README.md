@@ -3,8 +3,11 @@
 </h1> 
 
 # Poison Ivy Dectection using feature matching
+<div align="center">
+  <p align="justify">
 This project delivers a MATLAB-based software that uses computer vision to quickly and accurately identify poison ivy from images. By analyzing leaf characteristics such as color, shape, and texture, the software effectively distinguishes poison ivy from other plants, helping to prevent allergic reactions. It processes and segments images, maps leaf edges and veins, and classifies them through advanced feature extraction.
-
+  </p>
+</div>
 <h1 align="center">
 <img src="media/poison_ivy_feature.png" width=25%>
 </h1> 
